@@ -71,3 +71,6 @@ print()
 
 #8
 print("8.")
+for i in range (13):
+    calc = i * -7
+    print (i,"X 7 =",calc)
